@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+   font-family: newWorld;
+   src: url(/src/IMFellDWPica-Regular.ttf);
+}
+
+.nw {
+   font-family: newWorld;
+}
+
+.bg-shady {
+   box-shadow: rgba(0, 0, 0, 0.7) 0px 0px 360px 360px inset;
+}

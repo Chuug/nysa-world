@@ -1,0 +1,3 @@
+const nwConnect = () => {
+   alert('hello')
+}
